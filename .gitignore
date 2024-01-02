@@ -1,0 +1,11 @@
+*.o
+*.ko
+*.cmd
+Module.symvers
+ax88179_programmer
+ax88179b_179a_772e_772d_ieee
+ax88179b_179a_772e_772d_programmer
+ax_usb_nic.mod
+ax_usb_nic.mod.c
+axcmd
+modules.order
